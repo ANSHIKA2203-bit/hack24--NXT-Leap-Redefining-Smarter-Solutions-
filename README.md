@@ -120,6 +120,6 @@ The NXT Portal Enhancement Project incorporates innovative solutions to address 
 - **Role**: Ideas and Conceptualization
 - **Email**: [himanshusingh.patel@angelbroking.com](mailto:himanshusingh.patel@angelbroking.com)
 - ## Demo Video Link
-- "C:\Users\Anshika.Singh\Downloads\demo.mp4demo.gif.mp4"
+- ["C:\Users\Anshika.Singh\Downloads\demo.mp4demo.gif.mp4"](https://drive.google.com/file/d/1-_d2_GUlgvN2wIc03YKRtLr9mk6coKK_/view?usp=sharing)
 
 
