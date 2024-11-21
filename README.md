@@ -108,3 +108,16 @@ Implement a recommendations engine to suggest insurance and investment plans bas
 
 ## Conclusion
 The NXT Portal Enhancement Project incorporates innovative solutions to address common challenges, improve user experience, and drive business growth. By focusing on inclusivity, user support, real-time feedback, and tailored recommendations, we aim to create a dynamic and efficient platform that empowers both partners and clients.
+# Project Title
+
+## Contributors
+
+### Anshika Singh
+- **Role**: Coding and Execution
+- **Email**: [anshika.singh@angelbroking.com](mailto:anshika.singh@angelbroking.com)
+
+### Himanshu Singh Patel
+- **Role**: Ideas and Conceptualization
+- **Email**: [himanshusingh.patel@angelbroking.com](mailto:himanshusingh.patel@angelbroking.com)
+
+
