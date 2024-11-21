@@ -1,5 +1,6 @@
 # hack24--NXT-Leap-Redefining-Smarter-Solutions-
-Enhancing the NXT Portal Experience by Bit-Breakers.
+Enhancing the NXT Portal Experience by Bit-Breakers - ANSHIKA AND HIMANSHU.
+
 # NXT Portal Development  
 
 In developing the NXT portal, our team, led by Anshika and Himanshu from Bit-Breakers, is dedicated to optimizing processes and ensuring a seamless, user-friendly experience for both partners and clients. Our vision for the portal is to streamline operations, reduce complexity, and provide intuitive, value-driven features that enhance satisfaction and efficiency.  
